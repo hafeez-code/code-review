@@ -14,7 +14,7 @@ This project demonstrates **real-time code improvement, AI integration, and inte
 ## Technologies Used
 - **Python**: Core programming  
 - **Streamlit**: Frontend interface  
-- **Groq : GPT   
+- **Groq : api for the ai engine   
 
 ## How to Run
 1. Clone the repository:
